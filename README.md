@@ -3,11 +3,11 @@
 This repository contains a full-stack, transparent Generative AI chatbot built for GitLab employees and aspiring candidates. It interacts directly with the GitLab Handbook and Direction pages, retrieving context natively to prevent LLM hallucinations.
 
 ## Key Features
-* 🕷 **Crawl4AI Data Pipeline:** Fast, intelligent markdown scraping.
-* 🧠 **Google GenAI LLM & Embeddings:** Built with Gemini Flash and Gemini Embeddings via the current Google GenAI SDK.
-* 🔍 **Hybrid Retrieval Engine & ChromaDB:** Vectorized search persistence using ChromaDB and Reciprocal Rank Fusion (hybrid semantic + string matching context).
-* 🛡 **Strict Guardrails:** Configured LlamaIndex `PromptTemplates` restrict responses to retrieved handbook context exclusively.
-* 👁 **Radical Transparency UX:** The UI visibly displays the confidence score & exact sources for every response generated. 
+*  **Crawl4AI Data Pipeline:** Fast, intelligent markdown scraping.
+*  **Google GenAI LLM & Embeddings:** Built with Gemini Flash and Gemini Embeddings via the current Google GenAI SDK.
+*  **Hybrid Retrieval Engine & ChromaDB:** Vectorized search persistence using ChromaDB and Reciprocal Rank Fusion (hybrid semantic + string matching context).
+*  **Strict Guardrails:** Configured LlamaIndex `PromptTemplates` restrict responses to retrieved handbook context exclusively.
+*  **Radical Transparency UX:** The UI visibly displays the confidence score & exact sources for every response generated. 
 
 ## Project Architecture & Strategy (Write-Up)
 Our approach stems from the "build in public" philosophy. Emphasizing **Product Thinking**, the immediate concern with internal knowledge bots is "hallucinations"—LLMs confidently making up employee processes.
