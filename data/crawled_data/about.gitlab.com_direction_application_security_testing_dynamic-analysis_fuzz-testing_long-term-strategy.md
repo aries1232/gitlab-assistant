@@ -1,0 +1,40 @@
+#  Long-Term Strategy - Fuzz Testing 
+  1. You are here:
+  2. [GitLab Direction](https://about.gitlab.com/direction/)
+  3. [Product Stage Direction - Application Security Testing](https://about.gitlab.com/direction/application_security_testing/)
+  4. [Group Direction - Dynamic Analysis](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/)
+  5. [Category Direction - Fuzz Testing](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/)
+  6. Long-Term Strategy - Fuzz Testing
+
+
+####  Maintained by:
+[ ![Joel Patterson](https://about.gitlab.com/images/team/joelpatterson-crop.jpg) ](https://gitlab.com/joelpatterson) [ ![VP of Product Management](https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png) ](https://gitlab.com/oazaria)
+The following page may contain information related to upcoming products, features and functionality. It is important to note that the information presented is for informational purposes only, so please do not rely on the information for purchasing or planning purposes. Just like with all projects, the items mentioned on the page are subject to change or delay, and the development, release, and timing of any products, features or functionality remain at the sole discretion of GitLab Inc. 
+  * [Enable no-setup fuzz testing](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#enable-no-setup-fuzz-testing)
+    * [Use AutoDevOps and DAST to enable no-setup fuzz testing](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#use-autodevops-and-dast-to-enable-no-setup-fuzz-testing)
+    * [Automatically fuzz test the unit and system tests that users already have](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#automatically-fuzz-test-the-unit-and-system-tests-that-users-already-have)
+  * [Add value to other GitLab stages](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#add-value-to-other-gitlab-stages)
+    * [Leverage API fuzz testing's engine in DAST](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#leverage-api-fuzz-testings-engine-in-dast)
+    * [Leverage coverage-guided fuzz testing's correlation for SAST](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#leverage-coverage-guided-fuzz-testings-correlation-for-sast)
+
+
+This page describes our long-term fuzz testing strategic initiatives. These initiatives represent our [ambitious](https://handbook.gitlab.com/handbook/values/#ambitious) goals that we want to hit, even though they may be difficult to achieve.
+## Enable no-setup fuzz testing[](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#enable-no-setup-fuzz-testing)
+We know that one of the friction points users may have is that configuring fuzz testing can be hard. This means users are likely to give up before they see value out of fuzz testing and get inspired to keep going. Our long-term goal is to be able to let them enable fuzz testing with no setup, just a click, and immediately see the value of fuzz testing.
+### Use AutoDevOps and DAST to enable no-setup fuzz testing[](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#use-autodevops-and-dast-to-enable-no-setup-fuzz-testing)
+We have an opportunity to reuse what has already been built in [AutoDevOps](https://docs.gitlab.com/ee/topics/autodevops/) and [DAST](https://docs.gitlab.com/ee/user/application_security/dast/) to enable fuzz testing for certain projects with no configuration.
+To do this, we can have AutoDevOps run a DAST scan and record a log of the traffic that it captured during the DAST scan. We can then pass all these logs from DAST directly to the API fuzz testing engine, which can use those logs to automatically fuzz test the app without requiring a user to configure or do anything to get started.
+Additionally, this is an incredibly powerful strategy, because as DAST improves over time, it will produce better logs, which will then directly improve the quality of the fuzz test that is performed.
+### Automatically fuzz test the unit and system tests that users already have[](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#automatically-fuzz-test-the-unit-and-system-tests-that-users-already-have)
+We have an opportunity to leverage the app and test code that users already store with GitLab as part of their everyday work. Rather than require them to manually write fuzz test cases, we can directly consume their unit tests and create fuzzing jobs from them.
+This approach will be a game-changer for our users and GitLab because it will allow users to use what they already have to immediately start fuzz testing and finding bugs and vulnerabilities. It will also encourage writing more tests, which is a good software engineering practice in general but will also drive more usage of other GitLab stages.
+## Add value to other GitLab stages[](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#add-value-to-other-gitlab-stages)
+One of GitLab's main advantages over other products is that we provide a [single application](https://handbook.gitlab.com/handbook/product/categories/gitlab-the-product/single-application/) for our users. As a result, a longer-term focus area for fuzz testing is being able to interact and interface with other stages so users get more value out of GitLab as a whole.
+### Leverage API fuzz testing's engine in DAST[](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#leverage-api-fuzz-testings-engine-in-dast)
+GitLab's API fuzz testing engine is incredibly powerful in terms of what it can do when testing an API-based application. DAST has very similar use cases as API fuzz testing, so a strategic area of focus is improving our DAST offering using the engine that underlies our API fuzz testing capabilities. This could be used either to augment or replace our use of ZAP as part of DAST.
+### Leverage coverage-guided fuzz testing's correlation for SAST[](https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/#leverage-coverage-guided-fuzz-testings-correlation-for-sast)
+One aspect that makes GitLab's coverage-guided fuzz testing unique is that it can correlate and link together multiple crashes and faults that come from the same source. That way, a user only has to triage one issue, rather than needing to triage five issues that ultimately all have the same root cause.
+We want to find ways to leverage this correlation technology and use it in other scanners, such as SAST. We have feedback for SAST that users see multiple issues related to the same underlying code so we can meaningfully improve the experience there with fuzz testing.
+[Edit this page](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/source/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/index.html.md) [View source](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/index.html.md)
+![](https://cdn.bizible.com/ipv?_biz_r=&_biz_h=800054037&_biz_u=5d8b0a8c77f548e88eadc0ccfbfc5a2b&_biz_l=https%3A%2F%2Fabout.gitlab.com%2Fdirection%2Fapplication_security_testing%2Fdynamic-analysis%2Ffuzz-testing%2Flong-term-strategy%2F&_biz_t=1773332077171&_biz_i=%0ALong-Term%20Strategy%20-%20Fuzz%20Testing%0A%7C%0AGitLab%0A&_biz_n=115&rnd=977419&cdn_o=a&_biz_z=1773332077681)
+suggested results

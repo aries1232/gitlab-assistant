@@ -1,0 +1,4 @@
+# On-Call
+This page has moved to [On-Call Processes and Policies](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/on-call/).
+Last modified February 25, 2026: [Consolidate incident management handbook pages (`329206c6`)](https://gitlab.com/gitlab-com/content-sites/handbook/commit/329206c6)
+[ ](https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/engineering/on-call.md) - [ ](https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/engineering/on-call.md) - please [contribute](https://handbook.gitlab.com/handbook/about/contributing/). [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)

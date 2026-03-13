@@ -1,0 +1,70 @@
+# Security Risk Management Section
+The Security Risk Management Section is composed of development teams working to enable appsec and development teams to efficiently release secure modern applications while maintaining rapid delivery and reducing risk across the software development lifecycle. Support the needs and leverage the capabilities of the entire GitLab security and compliance portfolio to accomplish this end.
+## Common Links[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#common-links)
+  * Slack channels: 
+    * Main channel: [`#s_srm`](https://gitlab.enterprise.slack.com/archives/C07QUBQ98S1)
+    * Aggregated standup channel: [`#s_srm-standup`](https://gitlab.enterprise.slack.com/archives/C07QX7Y63HQ)
+
+
+## AI Prompts[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#ai-prompts)
+## Teams[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#teams)
+### Security Infrastructure[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#security-infrastructure)
+EM:  [![Ryan Wells](https://about.gitlab.com/images/team/ryaanwells-crop.jpg)Ryan Wells](https://handbook.gitlab.com/handbook/company/team/#ryaanwells)
+Name | Role  
+---|---  
+[![Mehmet Emin Inac](https://about.gitlab.com/images/team/meinac-crop.jpg)Mehmet Emin Inac](https://handbook.gitlab.com/handbook/company/team/#minac) | [Staff Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Schmil Monderer](https://about.gitlab.com/images/team/smonderer-crop.jpg)Schmil Monderer](https://handbook.gitlab.com/handbook/company/team/#schmilmonderer) | [Staff Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/#secure)  
+[![Bala Kumar Subramani](https://about.gitlab.com/images/team/balakumar-crop.jpg)Bala Kumar Subramani](https://handbook.gitlab.com/handbook/company/team/#balakumar) | [Senior Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Gregory Havenga](https://about.gitlab.com/images/team/ghavenga-crop.jpg)Gregory Havenga](https://handbook.gitlab.com/handbook/company/team/#ghavenga) | [Senior Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Michał Zając](https://about.gitlab.com/images/team/michalzajac-crop.jpg)Michał Zając](https://handbook.gitlab.com/handbook/company/team/#quintasan) | [Senior Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Rushik Subba](https://about.gitlab.com/images/team/srushik-crop.jpg)Rushik Subba](https://handbook.gitlab.com/handbook/company/team/#srushik) | [Intermediate Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Adrien Narinesingh](https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png)Adrien Narinesingh](https://handbook.gitlab.com/handbook/company/team/#anarinesingh) | [Associate Backend Engineer, Security Risk Management:Security Infrastructure](https://handbook.gitlab.com/job-families/engineering/development/backend/associate/)  
+### Security Insights[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#security-insights)
+PM:  [![Mike Clausen](https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png)Mike Clausen](https://handbook.gitlab.com/handbook/company/team/#mclausen35)
+EM:  [![Manager, Engineering](https://about.gitlab.com/images/team/ajbiton-crop.jpg)Manager, Engineering](https://handbook.gitlab.com/handbook/company/team/#ajbiton)
+Name | Role  
+---|---  
+[![Brian Williams](https://about.gitlab.com/images/team/bwill-crop.jpg)Brian Williams](https://handbook.gitlab.com/handbook/company/team/#bwill) | [Staff Backend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/backend-engineer/)  
+[![Savas Vedova](https://about.gitlab.com/images/team/savasvedova-crop.jpg)Savas Vedova](https://handbook.gitlab.com/handbook/company/team/#svedova) | [Staff Frontend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/frontend/#staff-frontend-engineer)  
+[![Charlie Kroon](https://about.gitlab.com/images/team/charliekroon-crop.jpg)Charlie Kroon](https://handbook.gitlab.com/handbook/company/team/#charlieeekroon) | [Fullstack Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/fullstack/)  
+[![Dave Pisek](https://about.gitlab.com/images/team/davepisek-crop.jpg)Dave Pisek](https://handbook.gitlab.com/handbook/company/team/#dpisek) | [Senior Frontend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/frontend/#senior-frontend-engineer)  
+[![Lorenz van Herwaarden](https://about.gitlab.com/images/team/lorenzvanherwaarden-crop.jpg)Lorenz van Herwaarden](https://handbook.gitlab.com/handbook/company/team/#lorenzvanherwaarden) | [Senior Frontend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/frontend/#senior-frontend-engineer)  
+[![Samantha Ming](https://about.gitlab.com/images/team/samanthaming-crop.jpg)Samantha Ming](https://handbook.gitlab.com/handbook/company/team/#sming-gitlab) | [Senior Frontend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/frontend/#senior-frontend-engineer)  
+[![Subashis Chakraborty](https://about.gitlab.com/images/team/subashischakraborty-crop.jpg)Subashis Chakraborty](https://handbook.gitlab.com/handbook/company/team/#subashis) | [Senior Backend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Harrison Peters](https://about.gitlab.com/images/team/hptrs-crop.jpg)Harrison Peters](https://handbook.gitlab.com/handbook/company/team/#hptrs) | [Backend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Ugo Nnanna Okeadu](https://about.gitlab.com/images/team/uokeadu-crop.jpg)Ugo Nnanna Okeadu](https://handbook.gitlab.com/handbook/company/team/#uokeadu) | [Backend Engineer, Security Risk Management:Security Insights](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+### Security Platform Management[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#security-platform-management)
+PM:  [![Grant Hickman](https://about.gitlab.com/images/team/granthickman-crop.jpg)Grant Hickman](https://handbook.gitlab.com/handbook/company/team/#ghickman)
+EM:  [![Or Gal](https://about.gitlab.com/images/team/orgal-crop.jpg)Or Gal](https://handbook.gitlab.com/handbook/company/team/#or-gal)
+Name | Role  
+---|---  
+[![Dheeraj Joshi](https://about.gitlab.com/images/team/dheerajjoshi-crop.jpg)Dheeraj Joshi](https://handbook.gitlab.com/handbook/company/team/#djadmin) | [Staff Frontend Engineer, Security Risk Management:Security Platform Management](https://handbook.gitlab.com/job-families/engineering/development/frontend/)  
+[![Ross Fuhrman](https://about.gitlab.com/images/team/rossfuhrman-crop.jpg)Ross Fuhrman](https://handbook.gitlab.com/handbook/company/team/#rossfuhrman) | [Senior Backend Engineer, Security Risk Management:Security Platform Management](https://handbook.gitlab.com/job-families/engineering/development/backend/#secure)  
+[![Chen Charnolevsky](https://about.gitlab.com/images/team/chencharnolevsky-crop.jpg)Chen Charnolevsky](https://handbook.gitlab.com/handbook/company/team/#ccharnolevsky) | [Senior Frontend Engineer, Security Risk Management:Security Platform Management](https://handbook.gitlab.com/job-families/engineering/development/frontend/senior/)  
+[![Gal Katz](https://about.gitlab.com/images/team/galkatz-crop.jpg)Gal Katz](https://handbook.gitlab.com/handbook/company/team/#gkatz1) | [Backend Engineer, Security Risk Management:Security Platform Management](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Miranda Fluharty](https://about.gitlab.com/images/team/mirandafluharty-crop.jpg)Miranda Fluharty](https://handbook.gitlab.com/handbook/company/team/#mfluharty) | [Frontend Engineer, Security Risk Management:Security Platform Management](https://handbook.gitlab.com/job-families/engineering/development/frontend/)  
+[![Nicolae Rotaru](https://about.gitlab.com/images/gitlab-logo-extra-whitespace.png)Nicolae Rotaru](https://handbook.gitlab.com/handbook/company/team/#nrotaru) | [Senior Backend Engineer](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/)  
+### Security Policies[](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/#security-policies)
+PM:  [![Grant Hickman](https://about.gitlab.com/images/team/granthickman-crop.jpg)Grant Hickman](https://handbook.gitlab.com/handbook/company/team/#ghickman)
+EM:  [![Alan \(Maciej\) Paruszewski](https://about.gitlab.com/images/team/maciejparuszewski-crop.jpg)Alan (Maciej) Paruszewski](https://handbook.gitlab.com/handbook/company/team/#alan)
+Name | Role  
+---|---  
+[![Alexander Turinske](https://about.gitlab.com/images/team/aturinske-crop.jpg)Alexander Turinske](https://handbook.gitlab.com/handbook/company/team/#aturinske) | [Staff Frontend Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/development/frontend/)  
+[![Sashi Kumar Kumaresan](https://about.gitlab.com/images/team/sashikumar-crop.jpg)Sashi Kumar Kumaresan](https://handbook.gitlab.com/handbook/company/team/#sashi_kumar) | [Staff Backend Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Martin Cavoj](https://about.gitlab.com/images/team/martincavoj-crop.jpg)Martin Cavoj](https://handbook.gitlab.com/handbook/company/team/#mcavoj) | [Senior Fullstack Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/development/fullstack/)  
+[![Andy Schoenen](https://about.gitlab.com/images/team/aschoenen-crop.jpg)Andy Schoenen](https://handbook.gitlab.com/handbook/company/team/#andyschoenen) | [Senior Backend Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/development/backend/)  
+[![Dominic Bauer](https://about.gitlab.com/images/team/dominicbauer-crop.jpg)Dominic Bauer](https://handbook.gitlab.com/handbook/company/team/#bauerdominic) | [Senior Backend Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/backend-engineer/)  
+[![Artur Fedorov](https://about.gitlab.com/images/team/arturfedorov-crop.jpg)Artur Fedorov](https://handbook.gitlab.com/handbook/company/team/#arfedoro) | [Senior Frontend Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/development/frontend/)  
+[![Marcos Rocha](https://about.gitlab.com/images/team/mrocha-crop.jpg)Marcos Rocha](https://handbook.gitlab.com/handbook/company/team/#mc_rocha) | [Backend Engineer, Security Risk Management:Security Policies](https://handbook.gitlab.com/job-families/engineering/backend-engineer/)  
+[![Md Imam Hossain](https://about.gitlab.com/images/team/imamhossain-crop.jpg)Md Imam Hossain](https://handbook.gitlab.com/handbook/company/team/#imam_h) |  [ Backend Engineer](https://handbook.gitlab.com/job-families/engineering/development/backend), Security Risk Management:Security Policies  
+* * *
+#####  [Security Infrastructure](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/security-infrastructure/)
+Provide the required infrastructure and database resources to meet enterprise customer demand and required functionalities as a competitive application security platform.
+#####  [Security Risk Management Planning](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/srm-planning/)
+How we do planning Our milestone planning is handled asynchronously as much as possible. Planning …
+#####  [Security Risk Management, Security Insights](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/security-insights/)
+The Security Insights group at GitLab is charged with developing solutions to enable customers to manage their security risks effectively and efficiently.
+#####  [Security Risk Management, Security Policies](https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/security-policies/)
+The Security Policies team at GitLab is responsible for creating solutions that enforce scans, and require security approvals once vulnerabilities are detected.
+Last modified November 5, 2025: [Update Security Insights team members (`e443b98c`)](https://gitlab.com/gitlab-com/content-sites/handbook/commit/e443b98c)
+[ ](https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/engineering/development/sec/security-risk-management/_index.md) - [ ](https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/engineering/development/sec/security-risk-management/_index.md) - please [contribute](https://handbook.gitlab.com/handbook/about/contributing/). [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)

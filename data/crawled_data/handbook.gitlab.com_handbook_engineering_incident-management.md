@@ -1,0 +1,4 @@
+# Incident Management
+This page has moved to [Incident Management](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/).
+Last modified February 25, 2026: [Consolidate incident management handbook pages (`329206c6`)](https://gitlab.com/gitlab-com/content-sites/handbook/commit/329206c6)
+[ ](https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/engineering/incident-management.md) - [ ](https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/engineering/incident-management.md) - please [contribute](https://handbook.gitlab.com/handbook/about/contributing/). [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)

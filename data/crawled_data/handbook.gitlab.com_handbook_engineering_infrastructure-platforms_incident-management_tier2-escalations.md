@@ -1,0 +1,4 @@
+# Tier 2 Escalations
+This page has moved to [Tier 2 On-Call](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/on-call/tier-2/).
+Last modified February 25, 2026: [Consolidate Tier 2 escalation pages (`dd3a3fed`)](https://gitlab.com/gitlab-com/content-sites/handbook/commit/dd3a3fed)
+[ ](https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/engineering/infrastructure-platforms/incident-management/tier2-escalations.md) - [ ](https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/engineering/infrastructure-platforms/incident-management/tier2-escalations.md) - please [contribute](https://handbook.gitlab.com/handbook/about/contributing/). [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)

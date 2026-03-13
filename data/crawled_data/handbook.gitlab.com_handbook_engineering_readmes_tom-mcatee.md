@@ -1,0 +1,5 @@
+# Tom McAtee's README
+Personal readme page for Tom McAtee, Support Engineer, GitLab
+Please see [my personal README repo!](https://gitlab.com/rrelax/personal-readme)
+Last modified November 29, 2024: [Fix missing description frontmatter in engineering team READMEs (`61cd45a3`)](https://gitlab.com/gitlab-com/content-sites/handbook/commit/61cd45a3)
+[ ](https://gitlab.com/gitlab-com/content-sites/handbook/blob/main/content/handbook/engineering/readmes/tom-mcatee.md) - [ ](https://gitlab.com/-/ide/project/gitlab-com/content-sites/handbook/edit/main/-/content/handbook/engineering/readmes/tom-mcatee.md) - please [contribute](https://handbook.gitlab.com/handbook/about/contributing/). [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)

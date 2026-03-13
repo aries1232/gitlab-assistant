@@ -1,0 +1,3441 @@
+[
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/",
+    "title": "Engineering | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering.md",
+    "status": "saved",
+    "content_chars": 53350,
+    "depth": 0
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/engineering-innovation/",
+    "title": "Innovation at GitLab | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_engineering-innovation.md",
+    "status": "saved",
+    "content_chars": 18827,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/",
+    "title": "Engineering Workflow | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow.md",
+    "status": "saved",
+    "content_chars": 91198,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/",
+    "title": "DevOps Engineering | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops.md",
+    "status": "saved",
+    "content_chars": 36182,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/",
+    "title": "AI Engineering | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai.md",
+    "status": "saved",
+    "content_chars": 10674,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/",
+    "title": "Sec Section | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec.md",
+    "status": "saved",
+    "content_chars": 28694,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/",
+    "title": "Infrastructure Platforms | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms.md",
+    "status": "saved",
+    "content_chars": 43020,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/cto-leadership-team/",
+    "title": "CTO Leadership Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_cto-leadership-team.md",
+    "status": "saved",
+    "content_chars": 10059,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/database/",
+    "title": "Database Engineering | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_database.md",
+    "status": "saved",
+    "content_chars": 5798,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/principles/",
+    "title": "Engineering Principles | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_principles.md",
+    "status": "saved",
+    "content_chars": 29180,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/",
+    "title": "Engineering Team Readmes | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes.md",
+    "status": "saved",
+    "content_chars": 5755,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/projects/",
+    "title": "Engineering Projects | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_projects.md",
+    "status": "saved",
+    "content_chars": 856493,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/tax-credits/",
+    "title": "R&D Tax Credits | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_tax-credits.md",
+    "status": "saved",
+    "content_chars": 6797,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/code-review/",
+    "title": "Code Review Guidelines | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_code-review.md",
+    "status": "saved",
+    "content_chars": 56518,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/workflow/",
+    "title": "Architecture Design Workflow | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_workflow.md",
+    "status": "saved",
+    "content_chars": 26460,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/root-cause-analysis/",
+    "title": "Root Cause Analysis | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_root-cause-analysis.md",
+    "status": "saved",
+    "content_chars": 6472,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/strategic-priority-codes/",
+    "title": "Strategic Priority Codes | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_strategic-priority-codes.md",
+    "status": "saved",
+    "content_chars": 12528,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/automation/",
+    "title": "Guidelines for automation and access tokens | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_automation.md",
+    "status": "saved",
+    "content_chars": 9686,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/gitlab-repositories/",
+    "title": "GitLab Repositories | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_gitlab-repositories.md",
+    "status": "saved",
+    "content_chars": 11194,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/hiring/",
+    "title": "Engineering Hiring | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_hiring.md",
+    "status": "saved",
+    "content_chars": 4889,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/demos/",
+    "title": "Engineering Demo Process | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_demos.md",
+    "status": "saved",
+    "content_chars": 4905,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/cross-functional-prioritization/",
+    "title": "Cross Functional Prioritization | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_cross-functional-prioritization.md",
+    "status": "saved",
+    "content_chars": 11340,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/developer-onboarding/",
+    "title": "Developer Onboarding | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_developer-onboarding.md",
+    "status": "saved",
+    "content_chars": 9153,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/engineering-comms/",
+    "title": "Engineering Communication | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_engineering-comms.md",
+    "status": "saved",
+    "content_chars": 9812,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/",
+    "title": "Processes | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes.md",
+    "status": "saved",
+    "content_chars": 1893,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-onboarding/",
+    "title": "Onboarding | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-onboarding.md",
+    "status": "saved",
+    "content_chars": 916,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/merge-request-triage/",
+    "title": "Wider Community Merge Request Triage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience_merge-request-triage.md",
+    "status": "saved",
+    "content_chars": 14022,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/",
+    "title": "Incident Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management.md",
+    "status": "saved",
+    "content_chars": 70683,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/related-workflows/",
+    "title": "Related Engineering Workflows | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_related-workflows.md",
+    "status": "saved",
+    "content_chars": 2449,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/error-budgets/",
+    "title": "Engineering Error Budgets | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_error-budgets.md",
+    "status": "saved",
+    "content_chars": 30549,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/performance/",
+    "title": "Performance | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_performance.md",
+    "status": "saved",
+    "content_chars": 45465,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/monitoring/",
+    "title": "Monitoring of GitLab.com | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_monitoring.md",
+    "status": "saved",
+    "content_chars": 16424,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/",
+    "title": "Engineering Career Development | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers.md",
+    "status": "saved",
+    "content_chars": 31954,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/management/",
+    "title": "Engineering Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_management.md",
+    "status": "saved",
+    "content_chars": 9756,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/capacity-planning/",
+    "title": "Capacity Planning for GitLab Infrastructure | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_capacity-planning.md",
+    "status": "saved",
+    "content_chars": 36057,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/saas-health-review/",
+    "title": "Infrastructure Platforms SaaS Health Review | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_saas-health-review.md",
+    "status": "saved",
+    "content_chars": 2511,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/",
+    "title": "Architecture | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture.md",
+    "status": "saved",
+    "content_chars": 7555,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/data-engineering/",
+    "title": "Data Engineering and Monetization | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_data-engineering.md",
+    "status": "saved",
+    "content_chars": 2712,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/deployments-and-releases/",
+    "title": "Deployments and Releases | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_deployments-and-releases.md",
+    "status": "saved",
+    "content_chars": 18842,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/",
+    "title": "Development | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development.md",
+    "status": "saved",
+    "content_chars": 2393,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/embody-team/",
+    "title": "Embody Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_embody-team.md",
+    "status": "saved",
+    "content_chars": 3730,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/incident-management/",
+    "title": "Incident Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_incident-management.md",
+    "status": "saved",
+    "content_chars": 800,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure/",
+    "title": "Infrastructure | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure.md",
+    "status": "saved",
+    "content_chars": 1288,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/on-call/",
+    "title": "On-Call | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_on-call.md",
+    "status": "saved",
+    "content_chars": 783,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/open-source/",
+    "title": "Open Source at GitLab | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_open-source.md",
+    "status": "saved",
+    "content_chars": 7119,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/gitlab-com/",
+    "title": "Policies related to GitLab.com | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_gitlab-com.md",
+    "status": "saved",
+    "content_chars": 1714,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/recognition/",
+    "title": "Recognition in Engineering | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_recognition.md",
+    "status": "saved",
+    "content_chars": 18729,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/",
+    "title": "Testing | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing.md",
+    "status": "saved",
+    "content_chars": 15479,
+    "depth": 1
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/infra-dev-escalation/process/",
+    "title": "Development Escalation Process (Discontinued) | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes_infra-dev-escalation_process.md",
+    "status": "saved",
+    "content_chars": 2585,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/deployments-and-releases/deployments/",
+    "title": "Deployments | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_deployments-and-releases_deployments.md",
+    "status": "saved",
+    "content_chars": 22608,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/development-analytics/",
+    "title": "Development Analytics Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience_development-analytics.md",
+    "status": "saved",
+    "content_chars": 27324,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/",
+    "title": "Developer Experience | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience.md",
+    "status": "saved",
+    "content_chars": 29252,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/management/group-retrospectives/",
+    "title": "Group Retrospectives | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_management_group-retrospectives.md",
+    "status": "saved",
+    "content_chars": 8926,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-delivery/delivery/",
+    "title": "Release & Deploy group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_gitlab-delivery_delivery.md",
+    "status": "saved",
+    "content_chars": 41391,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/triage-operations/",
+    "title": "Triage Operations | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience_triage-operations.md",
+    "status": "saved",
+    "content_chars": 62187,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://gitlab.com/users/sign_in/",
+    "title": "Just a moment...",
+    "filename": "gitlab.com_users_sign_in.md",
+    "status": "bot_challenge",
+    "content_chars": 490
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/reviewer-values/",
+    "title": "Code Review Values | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_reviewer-values.md",
+    "status": "saved",
+    "content_chars": 14571,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/duo-first-development/",
+    "title": "Duo-First Development | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_duo-first-development.md",
+    "status": "saved",
+    "content_chars": 3738,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/fast-boot/",
+    "title": "Fast Boot | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_fast-boot.md",
+    "status": "saved",
+    "content_chars": 6546,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/iteration/",
+    "title": "Iteration | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_iteration.md",
+    "status": "saved",
+    "content_chars": 5338,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/release-feature-determination-workflow/",
+    "title": "Release/Feature Determination Workflow | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_release-feature-determination-workflow.md",
+    "status": "saved",
+    "content_chars": 4719,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/unplanned-upgrade-stop/",
+    "title": "Unplanned Upgrade Stop Workflow | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_unplanned-upgrade-stop.md",
+    "status": "saved",
+    "content_chars": 6191,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-onboarding/manager/",
+    "title": "Engineering Manager Onboarding | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-onboarding_manager.md",
+    "status": "saved",
+    "content_chars": 3293,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/hiring-contractors/",
+    "title": "Hiring Contingent Workers - Development Department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes_hiring-contractors.md",
+    "status": "saved",
+    "content_chars": 11932,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/performance-tools/",
+    "title": "GitLab Performance Testing Tool Selection Guide | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_performance-tools.md",
+    "status": "saved",
+    "content_chars": 14477,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/incident-manager-onboarding/",
+    "title": "Incident Manager On Call onboarding | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_incident-manager-onboarding.md",
+    "status": "saved",
+    "content_chars": 28294,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/oncall/",
+    "title": "Tier 2 On Call | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_oncall.md",
+    "status": "saved",
+    "content_chars": 6785,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/oncall/rotation-leader/",
+    "title": "Rotation Leaders | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_oncall_rotation-leader.md",
+    "status": "saved",
+    "content_chars": 8921,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/oncall/coverage-and-scheduling/",
+    "title": "Coverage and Scheduling | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_oncall_coverage-and-scheduling.md",
+    "status": "saved",
+    "content_chars": 6870,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/follow-the-sun-coverage/",
+    "title": "Follow the Sun Coverage - Development Department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes_follow-the-sun-coverage.md",
+    "status": "saved",
+    "content_chars": 6232,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-delivery/distribution/",
+    "title": "Distribution | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_gitlab-delivery_distribution.md",
+    "status": "saved",
+    "content_chars": 37034,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/plan/knowledge/",
+    "title": "Plan:Knowledge Engineering Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_plan_knowledge.md",
+    "status": "saved",
+    "content_chars": 19448,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/create/source-code/backend/",
+    "title": "Create:Source Code BE Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_create_source-code_backend.md",
+    "status": "saved",
+    "content_chars": 51539,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/networking-and-incident-management/",
+    "title": "Production Engineering Networking and Incident Management Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering_networking-and-incident-management.md",
+    "status": "bot_challenge",
+    "content_chars": 12947
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/",
+    "title": "Production Engineering | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering.md",
+    "status": "saved",
+    "content_chars": 9878,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/tenant-scale/geo/",
+    "title": "Geo and Disaster Recovery | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_tenant-scale_geo.md",
+    "status": "saved",
+    "content_chars": 17271,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/data-engineering/database-excellence/database-frameworks/",
+    "title": "Database Framework Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_data-engineering_database-excellence_database-frameworks.md",
+    "status": "saved",
+    "content_chars": 25838,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure/team/cloud-connector/",
+    "title": "Cloud Connector - Component ownership | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure_team_cloud-connector.md",
+    "status": "bot_challenge",
+    "content_chars": 3706
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/rollout-plans/",
+    "title": "Rollout Plan Process for Development | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes_rollout-plans.md",
+    "status": "saved",
+    "content_chars": 7627,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/authorization/",
+    "title": "Authorization Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_software-supply-chain-security_authorization.md",
+    "status": "saved",
+    "content_chars": 15889,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/compliance/",
+    "title": "Compliance Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_software-supply-chain-security_compliance.md",
+    "status": "saved",
+    "content_chars": 49744,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/workspaces/",
+    "title": "Workspaces | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_design-documents_workspaces.md",
+    "status": "saved",
+    "content_chars": 9043,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/fulfillment/",
+    "title": "Fulfillment Sub-department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_fulfillment.md",
+    "status": "saved",
+    "content_chars": 71218,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/create/",
+    "title": "Create | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_create.md",
+    "status": "saved",
+    "content_chars": 28262,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/project-plans/",
+    "title": "Key Projects | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_project-plans.md",
+    "status": "saved",
+    "content_chars": 3323,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/package/",
+    "title": "Package | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_package.md",
+    "status": "saved",
+    "content_chars": 34357,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/plan/",
+    "title": "Plan | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_plan.md",
+    "status": "saved",
+    "content_chars": 69415,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/runner/",
+    "title": "Runner | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_runner.md",
+    "status": "saved",
+    "content_chars": 14053,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/verify/",
+    "title": "Verify | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_verify.md",
+    "status": "saved",
+    "content_chars": 47670,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/agent-foundations/",
+    "title": "Agent Foundations Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_agent-foundations.md",
+    "status": "saved",
+    "content_chars": 17663,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/ai-coding/",
+    "title": "AI Coding Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_ai-coding.md",
+    "status": "saved",
+    "content_chars": 9841,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/ai-framework/",
+    "title": "AI Framework Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_ai-framework.md",
+    "status": "saved",
+    "content_chars": 19404,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/duo-chat/",
+    "title": "Duo Chat Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_duo-chat.md",
+    "status": "saved",
+    "content_chars": 19582,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/editor-extensions-vscode/",
+    "title": "Editor Extensions: VS Code Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_editor-extensions-vscode.md",
+    "status": "saved",
+    "content_chars": 26010,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/editor-extensions-multi-platform/",
+    "title": "Editor Extensions: Multi-Platform Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_editor-extensions-multi-platform.md",
+    "status": "saved",
+    "content_chars": 26158,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-delivery/runway/",
+    "title": "Runway Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_gitlab-delivery_runway.md",
+    "status": "saved",
+    "content_chars": 6590,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/workflow-catalog/",
+    "title": "Workflow Catalog Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_workflow-catalog.md",
+    "status": "saved",
+    "content_chars": 14642,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/data-engineering/analytics/platform-insights/",
+    "title": "Analytics:Platform Insights Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_data-engineering_analytics_platform-insights.md",
+    "status": "saved",
+    "content_chars": 12369,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/operating-principles/",
+    "title": "Operating Principles | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_operating-principles.md",
+    "status": "saved",
+    "content_chars": 6487,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/context-systems/",
+    "title": "Context Systems Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_context-systems.md",
+    "status": "saved",
+    "content_chars": 3508,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/ai/custom-models/",
+    "title": "Custom Models Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_ai_custom-models.md",
+    "status": "saved",
+    "content_chars": 21788,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/",
+    "title": "Software Supply Chain Security Sub-department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_software-supply-chain-security.md",
+    "status": "saved",
+    "content_chars": 37892,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/anti-abuse/",
+    "title": "Anti-Abuse Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_software-supply-chain-security_anti-abuse.md",
+    "status": "saved",
+    "content_chars": 10231,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/software-supply-chain-security/authentication/",
+    "title": "Authentication Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_software-supply-chain-security_authentication.md",
+    "status": "saved",
+    "content_chars": 37086,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/",
+    "title": "Application Security Testing Sub-Department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure.md",
+    "status": "saved",
+    "content_chars": 37009,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/composition-analysis/",
+    "title": "Application Security Testing, Composition Analysis | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_composition-analysis.md",
+    "status": "saved",
+    "content_chars": 54424,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/dynamic-analysis/dynamic-analysis/",
+    "title": "Dynamic Analysis Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_dynamic-analysis_dynamic-analysis.md",
+    "status": "saved",
+    "content_chars": 49199,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/static-analysis/",
+    "title": "Static Analysis Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_static-analysis.md",
+    "status": "saved",
+    "content_chars": 24119,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/secret-detection/",
+    "title": "Secret Detection Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_secret-detection.md",
+    "status": "saved",
+    "content_chars": 22241,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/vulnerability-research/",
+    "title": "Application Security Testing, Vulnerability Research | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_vulnerability-research.md",
+    "status": "saved",
+    "content_chars": 9646,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/dynamic-analysis/api-security/",
+    "title": "API Security team in the Dynamic Analysis Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_dynamic-analysis_api-security.md",
+    "status": "saved",
+    "content_chars": 6142,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/security-policies/",
+    "title": "Security Risk Management, Security Policies | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_security-risk-management_security-policies.md",
+    "status": "saved",
+    "content_chars": 14984,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/security-insights/",
+    "title": "Security Risk Management, Security Insights | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_security-risk-management_security-insights.md",
+    "status": "saved",
+    "content_chars": 32188,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/security-infrastructure/",
+    "title": "Security Infrastructure | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_security-risk-management_security-infrastructure.md",
+    "status": "saved",
+    "content_chars": 3905,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/delineate-sec/",
+    "title": "Sec sub-department delineation | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_delineate-sec.md",
+    "status": "saved",
+    "content_chars": 14676,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/analyzer-observability-metrics/",
+    "title": "Tutorial: Add observability metrics to a CI-based analyzer | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_analyzer-observability-metrics.md",
+    "status": "saved",
+    "content_chars": 4955,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/secret-detection/metrics/",
+    "title": "Secret Detection Metrics | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_secret-detection_metrics.md",
+    "status": "saved",
+    "content_chars": 18006,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/security-risk-management/",
+    "title": "Security Risk Management Section | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_security-risk-management.md",
+    "status": "saved",
+    "content_chars": 14008,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/getting-assistance/",
+    "title": "Getting Assistance on Infrastructure Platforms | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_getting-assistance.md",
+    "status": "bot_challenge",
+    "content_chars": 7742
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/environments/",
+    "title": "Infrastructure Environments | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_environments.md",
+    "status": "saved",
+    "content_chars": 17153,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/projects/",
+    "title": "Infrastructure Department Projects | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_projects.md",
+    "status": "saved",
+    "content_chars": 16687,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/feature-support/",
+    "title": "Infrastructure Feature Support | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_feature-support.md",
+    "status": "saved",
+    "content_chars": 4268,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/project-management/",
+    "title": "The Infrastructure Platforms Project Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_project-management.md",
+    "status": "saved",
+    "content_chars": 17794,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/tools/",
+    "title": "Infrastructure Platforms Tools Index | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_tools.md",
+    "status": "saved",
+    "content_chars": 2097,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/okrs/",
+    "title": "The Infrastructure Platforms OKRs | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_okrs.md",
+    "status": "saved",
+    "content_chars": 3840,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/hiring/",
+    "title": "The Infrastructure Platforms Hiring Process | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_hiring.md",
+    "status": "saved",
+    "content_chars": 3750,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-dedicated/",
+    "title": "GitLab Dedicated Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_gitlab-dedicated.md",
+    "status": "saved",
+    "content_chars": 80587,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/tenant-scale/",
+    "title": "Tenant Scale Group | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_tenant-scale.md",
+    "status": "saved",
+    "content_chars": 20829,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production/architecture/",
+    "title": "Production Architecture | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production_architecture.md",
+    "status": "bot_challenge",
+    "content_chars": 17236
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production/readiness/",
+    "title": "Production Readiness Review | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production_readiness.md",
+    "status": "saved",
+    "content_chars": 12056,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/careers/",
+    "title": "Career Development in the Infrastructure Platforms Department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_careers.md",
+    "status": "saved",
+    "content_chars": 4427,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/networking-and-incident-management/on-call-handover/",
+    "title": "On-call handover | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering_networking-and-incident-management_on-call-handover.md",
+    "status": "saved",
+    "content_chars": 4335,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/networking-and-incident-management/on-call-shadowing/",
+    "title": "EOC Shadow and EOC Buddy Expectations | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering_networking-and-incident-management_on-call-shadowing.md",
+    "status": "saved",
+    "content_chars": 9858,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/networking-and-incident-management/sre-onboarding/",
+    "title": "SRE Onboarding | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering_networking-and-incident-management_sre-onboarding.md",
+    "status": "saved",
+    "content_chars": 17013,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/networking-and-incident-management/sre-oncall-onboarding-buddy/",
+    "title": "EOC Onboarding Buddies | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering_networking-and-incident-management_sre-oncall-onboarding-buddy.md",
+    "status": "saved",
+    "content_chars": 8003,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/alert-playbook-management/",
+    "title": "Alert Playbook Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_alert-playbook-management.md",
+    "status": "saved",
+    "content_chars": 6063,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/service-level-agreement/",
+    "title": "Availability Measurement for GitLab SaaS Services | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_service-level-agreement.md",
+    "status": "saved",
+    "content_chars": 7814,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/change-management/",
+    "title": "Change Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_change-management.md",
+    "status": "bot_challenge",
+    "content_chars": 40808
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/cost-management/",
+    "title": "Cost Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_cost-management.md",
+    "status": "saved",
+    "content_chars": 6649,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/data-access/",
+    "title": "Data Access Sub Department | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_data-access.md",
+    "status": "saved",
+    "content_chars": 10319,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/database/",
+    "title": "Database | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_database.md",
+    "status": "saved",
+    "content_chars": 8431,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/emergency-change-processes/",
+    "title": "Emergency Change Processes for GitLab SaaS | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_emergency-change-processes.md",
+    "status": "saved",
+    "content_chars": 5006,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-delivery/",
+    "title": "GitLab Delivery | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_gitlab-delivery.md",
+    "status": "saved",
+    "content_chars": 7005,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-review/",
+    "title": "Incident Review | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-review.md",
+    "status": "saved",
+    "content_chars": 9034,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/faq/",
+    "title": "Infrastructure Department Frequently Asked Questions | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_faq.md",
+    "status": "saved",
+    "content_chars": 6693,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/request-for-help-processes/",
+    "title": "Infrastructure Platforms Department Request for Help Process | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_request-for-help-processes.md",
+    "status": "saved",
+    "content_chars": 7191,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/product-management/",
+    "title": "Infrastructure Product Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_product-management.md",
+    "status": "saved",
+    "content_chars": 5748,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/network-security/",
+    "title": "Network Security Management Procedure | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_network-security.md",
+    "status": "bot_challenge",
+    "content_chars": 13222
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/processes/",
+    "title": "Platforms Processes | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_processes.md",
+    "status": "saved",
+    "content_chars": 1285,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production/",
+    "title": "Production | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production.md",
+    "status": "saved",
+    "content_chars": 16845,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/rate-limiting/",
+    "title": "Rate Limiting | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_rate-limiting.md",
+    "status": "bot_challenge",
+    "content_chars": 17968
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/release-tools/",
+    "title": "Release Tools | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_release-tools.md",
+    "status": "saved",
+    "content_chars": 3166,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/service-maturity-model/",
+    "title": "Service Maturity Model | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_service-maturity-model.md",
+    "status": "bot_challenge",
+    "content_chars": 298299
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/andrew-newdigate/",
+    "title": "Sr. Distinguished Engineer, Infrastructure - Andrew Newdigate | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_andrew-newdigate.md",
+    "status": "saved",
+    "content_chars": 12317,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/team-history/",
+    "title": "Team History | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_team-history.md",
+    "status": "saved",
+    "content_chars": 5057,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/devops/create/engineers/iteration/",
+    "title": "Iteration Retrospectives | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_devops_create_engineers_iteration.md",
+    "status": "saved",
+    "content_chars": 3699,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/amy-shiel/",
+    "title": "Amy Shiel README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_amy-shiel.md",
+    "status": "saved",
+    "content_chars": 4434,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/ben-king/",
+    "title": "Ben King's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_ben-king.md",
+    "status": "saved",
+    "content_chars": 6233,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/chris-kaburu/",
+    "title": "Chris 'CK' README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_chris-kaburu.md",
+    "status": "saved",
+    "content_chars": 4164,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/craig-miskell/",
+    "title": "Craig Miskell README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_craig-miskell.md",
+    "status": "saved",
+    "content_chars": 8852,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/daniel-diniz/",
+    "title": "Daniel Diniz's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_daniel-diniz.md",
+    "status": "saved",
+    "content_chars": 4267,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/david-wainaina/",
+    "title": "David Wainaina README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_david-wainaina.md",
+    "status": "saved",
+    "content_chars": 2469,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/eduardo-bonet/",
+    "title": "Eduardo Bonet's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_eduardo-bonet.md",
+    "status": "saved",
+    "content_chars": 3080,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/emily-chang/",
+    "title": "Emily Chang's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_emily-chang.md",
+    "status": "saved",
+    "content_chars": 8579,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/jane-gianoutsos/",
+    "title": "Jane Gianoutsos' README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_jane-gianoutsos.md",
+    "status": "saved",
+    "content_chars": 7729,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/juan-silva/",
+    "title": "Juan Silva's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_juan-silva.md",
+    "status": "saved",
+    "content_chars": 10484,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/kamil-trzcinski/",
+    "title": "Kamil Trzci\u0144ski's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_kamil-trzcinski.md",
+    "status": "saved",
+    "content_chars": 9729,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/lee-matos/",
+    "title": "Lee Matos' README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_lee-matos.md",
+    "status": "saved",
+    "content_chars": 2748,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/lyle-kozloff/",
+    "title": "Lyle Kozloff's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_lyle-kozloff.md",
+    "status": "saved",
+    "content_chars": 10166,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/marin-jankovski/",
+    "title": "Marin Jankovski's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_marin-jankovski.md",
+    "status": "saved",
+    "content_chars": 7785,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/mario-mora/",
+    "title": "Mario Mora's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_mario-mora.md",
+    "status": "saved",
+    "content_chars": 4601,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/matt-nohr/",
+    "title": "Matt Nohr's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_matt-nohr.md",
+    "status": "saved",
+    "content_chars": 5944,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/max-woolf/",
+    "title": "Max Woolf's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_max-woolf.md",
+    "status": "saved",
+    "content_chars": 899,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/mlunoe/",
+    "title": "Michael Lun\u00f8e's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_mlunoe.md",
+    "status": "saved",
+    "content_chars": 4819,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/mike-dunninger/",
+    "title": "Mike Dunninger's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_mike-dunninger.md",
+    "status": "saved",
+    "content_chars": 4996,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/mike-lockhart/",
+    "title": "MikeL's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_mike-lockhart.md",
+    "status": "saved",
+    "content_chars": 8590,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/nick-veenhof/",
+    "title": "Nick Veenhof's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_nick-veenhof.md",
+    "status": "saved",
+    "content_chars": 7022,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/alexives/",
+    "title": "README of Alex Ives | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_alexives.md",
+    "status": "saved",
+    "content_chars": 7776,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/alexander-sosna/",
+    "title": "README of Alexander Sosna | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_alexander-sosna.md",
+    "status": "saved",
+    "content_chars": 739,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/gabey/",
+    "title": "README of Gabriel Yoachum | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_gabey.md",
+    "status": "saved",
+    "content_chars": 2350,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/katrin-leinweber/",
+    "title": "README of Katrin Leinweber | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_katrin-leinweber.md",
+    "status": "saved",
+    "content_chars": 2722,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/ronnie-alfaro/",
+    "title": "Ronnie Alfaro's Readme | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_ronnie-alfaro.md",
+    "status": "saved",
+    "content_chars": 6175,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/savas-vedova/",
+    "title": "Savas Vedova's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_savas-vedova.md",
+    "status": "saved",
+    "content_chars": 3048,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/simon-street/",
+    "title": "Simon Street's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_simon-street.md",
+    "status": "saved",
+    "content_chars": 5175,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/thong-kuah/",
+    "title": "Thong Kuah's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_thong-kuah.md",
+    "status": "saved",
+    "content_chars": 4431,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/readmes/tom-mcatee/",
+    "title": "Tom McAtee's README | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_readmes_tom-mcatee.md",
+    "status": "saved",
+    "content_chars": 816,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://gitlab.com/users/sign_in/",
+    "title": "Just a moment...",
+    "filename": "gitlab.com_users_sign_in.md",
+    "status": "bot_challenge",
+    "content_chars": 490
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://gitlab.com/users/sign_in/",
+    "title": "Just a moment...",
+    "filename": "gitlab.com_users_sign_in.md",
+    "status": "bot_challenge",
+    "content_chars": 490
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://gitlab.com/users/sign_in/",
+    "title": "Just a moment...",
+    "filename": "gitlab.com_users_sign_in.md",
+    "status": "bot_challenge",
+    "content_chars": 490
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/sec/secure/qa_process/",
+    "title": "Secure QA Process | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_sec_secure_qa_process.md",
+    "status": "saved",
+    "content_chars": 13439,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/gitlab-delivery/distribution/merge_requests/",
+    "title": "Distribution Team Merge Request Handling | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_gitlab-delivery_distribution_merge_requests.md",
+    "status": "saved",
+    "content_chars": 10329,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/ai_gateway/",
+    "title": "AI-gateway | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_design-documents_ai_gateway.md",
+    "status": "bot_challenge",
+    "content_chars": 37865
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/",
+    "title": "Architecture Design Documents | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_design-documents.md",
+    "status": "bot_challenge",
+    "content_chars": 57802
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/engineering-productivity/",
+    "title": "Engineering Productivity team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience_engineering-productivity.md",
+    "status": "saved",
+    "content_chars": 1264,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/bug-prioritization/",
+    "title": "Bug Prioritization | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience_bug-prioritization.md",
+    "status": "saved",
+    "content_chars": 12313,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/environments/canary-stage/",
+    "title": "Environments Canary Stage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_environments_canary-stage.md",
+    "status": "saved",
+    "content_chars": 10184,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/engineering-comms/engineering-poster-boards/",
+    "title": "Engineering Poster Boards | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_engineering-comms_engineering-poster-boards.md",
+    "status": "saved",
+    "content_chars": 3689,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/talent-assessment/",
+    "title": "Development Talent Assessment Process | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes_talent-assessment.md",
+    "status": "saved",
+    "content_chars": 13407,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/workflow/development-processes/infra-dev-escalation/",
+    "title": "General Information of Development Escalation Process | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_workflow_development-processes_infra-dev-escalation.md",
+    "status": "saved",
+    "content_chars": 16185,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/incident-io-down/",
+    "title": "What if incident.io is Down? | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_incident-io-down.md",
+    "status": "bot_challenge",
+    "content_chars": 2920
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/on-call/",
+    "title": "On-Call Processes and Policies | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_on-call.md",
+    "status": "saved",
+    "content_chars": 27797,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/roles/incident-lead/",
+    "title": "Incident Roles - Incident Lead | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_roles_incident-lead.md",
+    "status": "saved",
+    "content_chars": 8736,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/roles/incident-responder/",
+    "title": "Incident Roles - Incident Responder | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_roles_incident-responder.md",
+    "status": "saved",
+    "content_chars": 6680,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/roles/communications-lead/",
+    "title": "Incident Roles - Communications Lead | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_roles_communications-lead.md",
+    "status": "saved",
+    "content_chars": 14890,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/tier2-escalations/",
+    "title": "Tier 2 Escalations | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_tier2-escalations.md",
+    "status": "saved",
+    "content_chars": 884,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/incident-management/incident-follow-ups/",
+    "title": "Incident Follow Up Issues | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_incident-management_incident-follow-ups.md",
+    "status": "saved",
+    "content_chars": 7727,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://gitlab.com/users/sign_in/",
+    "title": "Just a moment...",
+    "filename": "gitlab.com_users_sign_in.md",
+    "status": "bot_challenge",
+    "content_chars": 490
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure/team/",
+    "title": "Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure_team.md",
+    "status": "saved",
+    "content_chars": 1123,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/error-budgets/error-budget-by-stage-group-example/",
+    "title": "Engineering Error Budgets for Stage Groups | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_error-budgets_error-budget-by-stage-group-example.md",
+    "status": "saved",
+    "content_chars": 6414,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/production-engineering/observability/",
+    "title": "Observability Team | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_production-engineering_observability.md",
+    "status": "saved",
+    "content_chars": 26090,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/error-budgets/custom-targets/",
+    "title": "Engineering Error Budget Custom Targets | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_error-budgets_custom-targets.md",
+    "status": "saved",
+    "content_chars": 4066,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/gitlab-com/policies/monitoring/",
+    "title": "Monitoring of GitLab.com | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_gitlab-com_policies_monitoring.md",
+    "status": "saved",
+    "content_chars": 5303,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/monitoring/staging-monitoring/",
+    "title": "Staging Monitoring | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_monitoring_staging-monitoring.md",
+    "status": "saved",
+    "content_chars": 6402,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/matrix/",
+    "title": "Engineering Career Framework | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_matrix.md",
+    "status": "saved",
+    "content_chars": 5305,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/ic-leadership/",
+    "title": "Engineering IC Leadership | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_ic-leadership.md",
+    "status": "saved",
+    "content_chars": 9861,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/training/",
+    "title": "Development Department Learning and Development | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_training.md",
+    "status": "saved",
+    "content_chars": 6925,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/ic-leadership/tech-lead/",
+    "title": "Tech Lead at GitLab | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_ic-leadership_tech-lead.md",
+    "status": "saved",
+    "content_chars": 3769,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/training/em-role/",
+    "title": "Engineering manager role explained | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_training_em-role.md",
+    "status": "saved",
+    "content_chars": 2619,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/management/hiring/",
+    "title": "Engineering Manager Hiring | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_management_hiring.md",
+    "status": "saved",
+    "content_chars": 1985,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/management/management-career-development/",
+    "title": "Engineering Management Career Development | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_management_management-career-development.md",
+    "status": "saved",
+    "content_chars": 3921,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/careers/management/project-management/",
+    "title": "Engineering Management Project Management | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_careers_management_project-management.md",
+    "status": "saved",
+    "content_chars": 2701,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/abstractions/",
+    "title": "Key Abstractions | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_abstractions.md",
+    "status": "saved",
+    "content_chars": 8056,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/practice/",
+    "title": "Practices | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_practice.md",
+    "status": "saved",
+    "content_chars": 1207,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/practice/scalability/",
+    "title": "Scalability | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_practice_scalability.md",
+    "status": "saved",
+    "content_chars": 15214,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/roadmap/",
+    "title": "Technology Roadmap | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_roadmap.md",
+    "status": "saved",
+    "content_chars": 9620,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/architecture/guidelines/",
+    "title": "Guidelines | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_architecture_guidelines.md",
+    "status": "saved",
+    "content_chars": 1087,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/data-engineering/analytics/",
+    "title": "Analytics Stage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_data-engineering_analytics.md",
+    "status": "saved",
+    "content_chars": 2783,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/data-engineering/database-excellence/",
+    "title": "Database Excellence Stage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_data-engineering_database-excellence.md",
+    "status": "saved",
+    "content_chars": 6748,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/model-validation/model_evaluation/",
+    "title": "AI Model Validation at GitLab | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_data-science_ai-powered_model-validation_model_evaluation.md",
+    "status": "saved",
+    "content_chars": 11637,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/required-approvals/",
+    "title": "Development Required Approvals | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_required-approvals.md",
+    "status": "saved",
+    "content_chars": 5316,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/development/growth/",
+    "title": "Growth Stage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_development_growth.md",
+    "status": "saved",
+    "content_chars": 14352,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/open-source/growth-strategy/",
+    "title": "Open Source Growth Strategy | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_open-source_growth-strategy.md",
+    "status": "saved",
+    "content_chars": 16419,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/gitlab-com/policies/backup/",
+    "title": "Backups of GitLab.com | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_gitlab-com_policies_backup.md",
+    "status": "saved",
+    "content_chars": 5851,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/gitlab-com/policies/disaster-recovery/",
+    "title": "Disaster Recovery of GitLab.com | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_gitlab-com_policies_disaster-recovery.md",
+    "status": "saved",
+    "content_chars": 7647,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/gitlab-com/policies/teleport/",
+    "title": "GitLab Teleport Access Policy | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_gitlab-com_policies_teleport.md",
+    "status": "saved",
+    "content_chars": 3698,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/flaky-tests/",
+    "title": "Flaky tests | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_flaky-tests.md",
+    "status": "saved",
+    "content_chars": 8046,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/guide-to-e2e-test-failure-issues/",
+    "title": "End-to-End Test Failure Issue Debugging Guide | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_guide-to-e2e-test-failure-issues.md",
+    "status": "saved",
+    "content_chars": 7611,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/using-duo-to-debug-test-failures/",
+    "title": "Debug Test Failures and Live Issues with Duo | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_using-duo-to-debug-test-failures.md",
+    "status": "saved",
+    "content_chars": 11479,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/developer-experience/workflow-automation/",
+    "title": "Workflow Automation | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_infrastructure-platforms_developer-experience_workflow-automation.md",
+    "status": "saved",
+    "content_chars": 5848,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/deployment_paths/",
+    "title": "Deployment Workflow | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_deployment_paths.md",
+    "status": "saved",
+    "content_chars": 3000,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/end-to-end-pipeline-monitoring/",
+    "title": "End-to-end Pipeline Monitoring | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_end-to-end-pipeline-monitoring.md",
+    "status": "saved",
+    "content_chars": 17287,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/test-environments-catalog/",
+    "title": "GitLab Test Environments Catalog | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_test-environments-catalog.md",
+    "status": "saved",
+    "content_chars": 28365,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/observability_performance/",
+    "title": "Observability Based Performance Testing at GitLab | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_observability_performance.md",
+    "status": "saved",
+    "content_chars": 10299,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/operational-verification/",
+    "title": "Operational Verification | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_operational-verification.md",
+    "status": "saved",
+    "content_chars": 4265,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/oncall-rotation/",
+    "title": "Pipeline DRI On-call Rotation | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_oncall-rotation.md",
+    "status": "saved",
+    "content_chars": 14286,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/pipeline-triage/",
+    "title": "Pipeline Triage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_pipeline-triage.md",
+    "status": "saved",
+    "content_chars": 37499,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/prep-performance-metrics/",
+    "title": "PREP Performance Metrics Guide | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_prep-performance-metrics.md",
+    "status": "saved",
+    "content_chars": 41315,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/risk-mapping/",
+    "title": "Risk Mapping | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_risk-mapping.md",
+    "status": "saved",
+    "content_chars": 7902,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/self-service-performance-regression-testing/",
+    "title": "Self-Service Performance Regression Testing | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_self-service-performance-regression-testing.md",
+    "status": "saved",
+    "content_chars": 39886,
+    "depth": 2
+  },
+  {
+    "scope": "engineering_handbook",
+    "url": "https://handbook.gitlab.com/handbook/engineering/testing/test-coverage/",
+    "title": "Test Coverage | The GitLab Handbook",
+    "filename": "handbook.gitlab.com_handbook_engineering_testing_test-coverage.md",
+    "status": "saved",
+    "content_chars": 11430,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/",
+    "title": "GitLab Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction.md",
+    "status": "saved",
+    "content_chars": 40946,
+    "depth": 0
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/dev/",
+    "title": "Product Section Direction - Dev\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_dev.md",
+    "status": "saved",
+    "content_chars": 55406,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/plan/",
+    "title": "Product Stage Direction - Plan\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_plan.md",
+    "status": "saved",
+    "content_chars": 50861,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/create/",
+    "title": "Product Stage Vision - Create\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_create.md",
+    "status": "bot_challenge",
+    "content_chars": 799399
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ci/",
+    "title": "CI Section Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ci.md",
+    "status": "saved",
+    "content_chars": 19137,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ops/",
+    "title": "Section Direction - Ops\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ops.md",
+    "status": "saved",
+    "content_chars": 37648,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/package/",
+    "title": "Stage Direction - Package\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_package.md",
+    "status": "saved",
+    "content_chars": 19661,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/",
+    "title": "Delivery Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery.md",
+    "status": "saved",
+    "content_chars": 18835,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security/",
+    "title": "Product Section Direction - Security\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security.md",
+    "status": "saved",
+    "content_chars": 51210,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/supply-chain/",
+    "title": "Software Supply Chain Security Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_supply-chain.md",
+    "status": "saved",
+    "content_chars": 32228,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/",
+    "title": "Product Stage Direction - Application Security Testing\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing.md",
+    "status": "saved",
+    "content_chars": 22525,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/",
+    "title": "Product Stage Direction - Software Supply Chain Security\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security.md",
+    "status": "saved",
+    "content_chars": 24977,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/",
+    "title": "Product Stage Direction - Security Risk Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management.md",
+    "status": "saved",
+    "content_chars": 12108,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/data-science/",
+    "title": "Product Section Direction - Data Science\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_data-science.md",
+    "status": "saved",
+    "content_chars": 17815,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/modelops/",
+    "title": "Product Stage Direction - ModelOps\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_modelops.md",
+    "status": "saved",
+    "content_chars": 10978,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/modelops/mlops/",
+    "title": "Group Direction - MLOps\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_modelops_mlops.md",
+    "status": "saved",
+    "content_chars": 8330,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/modelops/dataops/",
+    "title": "Group Direction - DataOps\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_modelops_dataops.md",
+    "status": "saved",
+    "content_chars": 5071,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/",
+    "title": "Stage Direction - AI-powered\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered.md",
+    "status": "saved",
+    "content_chars": 16413,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/",
+    "title": "Group Direction - AI Framework\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework.md",
+    "status": "saved",
+    "content_chars": 12050,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/duo_chat/",
+    "title": "Category Direction - GitLab Duo Chat\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_duo_chat.md",
+    "status": "saved",
+    "content_chars": 16749,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/agent_foundations/",
+    "title": "Category Direction - GitLab Agent Foundations\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_agent_foundations.md",
+    "status": "saved",
+    "content_chars": 7896,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/custom_models/",
+    "title": "Group Direction - Custom Models\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_custom_models.md",
+    "status": "saved",
+    "content_chars": 14002,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/global-search/",
+    "title": "Product Direction - Global Search\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_global-search.md",
+    "status": "saved",
+    "content_chars": 37962,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/analytics/",
+    "title": "Stage Direction - Analytics\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_analytics.md",
+    "status": "saved",
+    "content_chars": 22455,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/analytics/analytics-instrumentation/",
+    "title": "Product Direction - Analytics Instrumentation\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_analytics_analytics-instrumentation.md",
+    "status": "saved",
+    "content_chars": 23000,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/analytics/platform_insights/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_analytics_platform_insights.md",
+    "status": "saved",
+    "content_chars": 588,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/fulfillment/",
+    "title": "Product Section Direction - Fulfillment\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_fulfillment.md",
+    "status": "saved",
+    "content_chars": 21783,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/foundations/",
+    "title": "Product Stage Direction - Foundations\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_foundations.md",
+    "status": "saved",
+    "content_chars": 8619,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/runtime/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_runtime.md",
+    "status": "saved",
+    "content_chars": 566,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/geo/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_geo.md",
+    "status": "saved",
+    "content_chars": 562,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/gitlab_delivery/",
+    "title": "Product Direction - Delivery\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_gitlab_delivery.md",
+    "status": "saved",
+    "content_chars": 24041,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/distribution/",
+    "title": "Product Direction - Distribution\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_distribution.md",
+    "status": "saved",
+    "content_chars": 12969,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/production_engineering/",
+    "title": "Product Direction - Production Engineering\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_production_engineering.md",
+    "status": "saved",
+    "content_chars": 20458,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/gitlab_dedicated/",
+    "title": "Category Direction - GitLab Dedicated\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_gitlab_dedicated.md",
+    "status": "saved",
+    "content_chars": 44071,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/TBD/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_TBD.md",
+    "status": "saved",
+    "content_chars": 562,
+    "depth": 1
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/",
+    "title": "Verify Stage Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify.md",
+    "status": "saved",
+    "content_chars": 12279,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/pipeline_security/secrets_management/",
+    "title": "Category Direction - Secrets Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_pipeline_security_secrets_management.md",
+    "status": "saved",
+    "content_chars": 16700,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/continuous_integration/",
+    "title": "Category Direction - Continuous Integration\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_continuous_integration.md",
+    "status": "saved",
+    "content_chars": 9187,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/infrastructure_as_code/",
+    "title": "Category Direction - Infrastructure as Code\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery_infrastructure_as_code.md",
+    "status": "saved",
+    "content_chars": 17382,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/glossary.html",
+    "title": "Glossary of delivery terminology\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery_glossary.html.md",
+    "status": "saved",
+    "content_chars": 15620,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/create/remote_development/web_ide/",
+    "title": "Category Direction - Web IDE\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_create_remote_development_web_ide.md",
+    "status": "saved",
+    "content_chars": 14583,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security_policies/security_policy_management/",
+    "title": "Category Direction - Security Policy Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security_policies_security_policy_management.md",
+    "status": "saved",
+    "content_chars": 46736,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/threat_insights/vulnerability_management/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_security_risk_management_threat_insights_vulnerability_management.md",
+    "status": "saved",
+    "content_chars": 628,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security-insights/dependency_management/",
+    "title": "Category Direction - Dependency Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security-insights_dependency_management.md",
+    "status": "saved",
+    "content_chars": 8918,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security-platform-management/security-testing-configuration/",
+    "title": "Category Direction - Security Testing Configuration\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security-platform-management_security-testing-configuration.md",
+    "status": "saved",
+    "content_chars": 8468,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security-platform-management/security-asset-inventories/",
+    "title": "Category Direction - Security Asset Inventories\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security-platform-management_security-asset-inventories.md",
+    "status": "saved",
+    "content_chars": 8645,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security-platform-management/security-testing-integrations/",
+    "title": "Category Direction - Security Testing Integrations\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security-platform-management_security-testing-integrations.md",
+    "status": "saved",
+    "content_chars": 8219,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/static-analysis/sast/",
+    "title": "Category Direction - Static Application Security Testing (SAST)\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_static-analysis_sast.md",
+    "status": "saved",
+    "content_chars": 17726,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/secret-detection/secret-detection/",
+    "title": "Category Direction - Secret Detection\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_secret-detection_secret-detection.md",
+    "status": "saved",
+    "content_chars": 22560,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/static-analysis/code-quality/",
+    "title": "Category Direction - Code Quality\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_static-analysis_code-quality.md",
+    "status": "saved",
+    "content_chars": 11490,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/dast/",
+    "title": "Category Direction - Dynamic Application Security Testing\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_dynamic-analysis_dast.md",
+    "status": "saved",
+    "content_chars": 15642,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/api-security/",
+    "title": "Category Direction - API Security\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_dynamic-analysis_api-security.md",
+    "status": "saved",
+    "content_chars": 17649,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/",
+    "title": "Category Direction - Fuzz Testing\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_dynamic-analysis_fuzz-testing.md",
+    "status": "saved",
+    "content_chars": 30935,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/composition-analysis/software-composition-analysis/",
+    "title": "Category Direction - Software Composition Analysis\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_composition-analysis_software-composition-analysis.md",
+    "status": "saved",
+    "content_chars": 19419,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/composition-analysis/container-scanning/",
+    "title": "Category Direction - Container Scanning\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_composition-analysis_container-scanning.md",
+    "status": "saved",
+    "content_chars": 14448,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/authentication/system-access/",
+    "title": "System Access Category\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_authentication_system-access.md",
+    "status": "saved",
+    "content_chars": 8831,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/authorization/",
+    "title": "Group Direction - Authorization\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_authorization.md",
+    "status": "saved",
+    "content_chars": 4566,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/pipeline_security/dependency_firewall/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_pipeline_security_dependency_firewall.md",
+    "status": "saved",
+    "content_chars": 631,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/compliance/audit-events/",
+    "title": "Category Direction - Audit Events\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_compliance_audit-events.md",
+    "status": "saved",
+    "content_chars": 34855,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/compliance/compliance-management/",
+    "title": "Category Direction - Compliance Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_compliance_compliance-management.md",
+    "status": "saved",
+    "content_chars": 35150,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/anti-abuse/insider_threat/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_anti-abuse_insider_threat.md",
+    "status": "saved",
+    "content_chars": 619,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/anti-abuse/instance_resiliency/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_anti-abuse_instance_resiliency.md",
+    "status": "saved",
+    "content_chars": 623,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/pipeline_security/secure_artifacts/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_pipeline_security_secure_artifacts.md",
+    "status": "saved",
+    "content_chars": 628,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/",
+    "title": "Delivery Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery.md",
+    "status": "saved",
+    "content_chars": 18836,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/tenant-scale/user-profile/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_tenant-scale_user-profile.md",
+    "status": "saved",
+    "content_chars": 586,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/create/remote_development/workspaces/",
+    "title": "Category Direction - Workspaces\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_create_remote_development_workspaces.md",
+    "status": "saved",
+    "content_chars": 17252,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/deployment_management/",
+    "title": "Category Direction - Deployment Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery_deployment_management.md",
+    "status": "saved",
+    "content_chars": 28643,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/verify/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_verify_verify.md",
+    "status": "saved",
+    "content_chars": 574,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/static-analysis/",
+    "title": "Static Analysis group priorities\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_static-analysis.md",
+    "status": "saved",
+    "content_chars": 11949,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/secret-detection/",
+    "title": "Secret Detection Priorities, 18.0-18.11\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_secret-detection.md",
+    "status": "saved",
+    "content_chars": 5061,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/",
+    "title": "Group Direction - Dynamic Analysis\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_dynamic-analysis.md",
+    "status": "saved",
+    "content_chars": 4753,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/composition-analysis/",
+    "title": "Group Direction - Composition Analysis\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_composition-analysis.md",
+    "status": "saved",
+    "content_chars": 6291,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/authentication/",
+    "title": "Group Direction - Authentication\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_authentication.md",
+    "status": "saved",
+    "content_chars": 8857,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/compliance/tactical-priorities.html",
+    "title": "Tactical Priorities - Compliance\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_compliance_tactical-priorities.html.md",
+    "status": "saved",
+    "content_chars": 12859,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/pipeline_security/",
+    "title": "Group Direction - Pipeline Security\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_pipeline_security.md",
+    "status": "saved",
+    "content_chars": 4337,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security-platform-management/",
+    "title": "Group Direction - Security Platform Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security-platform-management.md",
+    "status": "saved",
+    "content_chars": 4138,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/security_risk_management/security_policies/",
+    "title": "Group Direction - Security Policies\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_security_risk_management_security_policies.md",
+    "status": "saved",
+    "content_chars": 6403,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_model_validation/",
+    "title": "Group Direction - AI Model Validation\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_model_validation.md",
+    "status": "saved",
+    "content_chars": 7330,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/create/code_creation/code_suggestions/",
+    "title": "Category Direction - Code Suggestions\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_create_code_creation_code_suggestions.md",
+    "status": "saved",
+    "content_chars": 12661,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_abstraction_layer/",
+    "title": "Category Direction - AI Abstraction Layer\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_abstraction_layer.md",
+    "status": "saved",
+    "content_chars": 4231,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_gw/",
+    "title": "Category Direction - AI Gateway\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_gw.md",
+    "status": "saved",
+    "content_chars": 5204,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/duo_context_enrichment/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_duo_context_enrichment.md",
+    "status": "saved",
+    "content_chars": 609,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_research/",
+    "title": "Category Direction - AI Research\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_research.md",
+    "status": "saved",
+    "content_chars": 6716,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_evaluation/",
+    "title": "Category Direction - AI Evaluation\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_evaluation.md",
+    "status": "saved",
+    "content_chars": 8691,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/core_platform/plans/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_core_platform_plans.md",
+    "status": "saved",
+    "content_chars": 580,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/core_platform/",
+    "title": "Product Section Direction - Core Platform\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_core_platform.md",
+    "status": "saved",
+    "content_chars": 49444,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/analytics/platform-insights/",
+    "title": "Product Direction - Analytics:Platform Insights\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_analytics_platform-insights.md",
+    "status": "saved",
+    "content_chars": 9378,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/fulfillment/fulfillment-platform/",
+    "title": "Group Direction - Fulfillment Platform\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_fulfillment_fulfillment-platform.md",
+    "status": "saved",
+    "content_chars": 4325,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/fulfillment/subscription-management/",
+    "title": "Product Direction - Fulfillment: Subscription Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_fulfillment_subscription-management.md",
+    "status": "saved",
+    "content_chars": 22544,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/fulfillment/provision/",
+    "title": "Group Direction - Provision\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_fulfillment_provision.md",
+    "status": "saved",
+    "content_chars": 7029,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/fulfillment/seat-management/",
+    "title": "Group Direction - Seat Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_fulfillment_seat-management.md",
+    "status": "saved",
+    "content_chars": 11233,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/fulfillment/utilization/",
+    "title": "Group Direction - Utilization\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_fulfillment_utilization.md",
+    "status": "saved",
+    "content_chars": 10079,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/foundations/design_system/",
+    "title": "Group Direction - Design System\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_foundations_design_system.md",
+    "status": "saved",
+    "content_chars": 25870,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/foundations/accessibility/",
+    "title": "Product Direction - Accessibility\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_foundations_accessibility.md",
+    "status": "saved",
+    "content_chars": 5623,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/distribution/omnibus/",
+    "title": "Category Strategy - Omnibus Package\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_distribution_omnibus.md",
+    "status": "saved",
+    "content_chars": 12867,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/distribution/cloud_native_installation/",
+    "title": "Category Strategy - Cloud Native Installation\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_distribution_cloud_native_installation.md",
+    "status": "saved",
+    "content_chars": 16397,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/production_engineering/observability/",
+    "title": "Product Direction - Observability (Internal)\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_production_engineering_observability.md",
+    "status": "saved",
+    "content_chars": 12925,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/production_engineering/practices/",
+    "title": "Product Direction - Scalability-Practices\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_production_engineering_practices.md",
+    "status": "saved",
+    "content_chars": 14804,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/platforms/switchboard/",
+    "title": "Category Direction - Switchboard\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_platforms_switchboard.md",
+    "status": "saved",
+    "content_chars": 17651,
+    "depth": 2
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/pipeline_composition/",
+    "title": "Category Direction - Pipeline Composition\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_pipeline_composition.md",
+    "status": "saved",
+    "content_chars": 15187,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/runner_core/",
+    "title": "Category Direction - Runner Core\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_runner_core.md",
+    "status": "saved",
+    "content_chars": 12664,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/fleet_visibility/",
+    "title": "Category Direction - Fleet Visibility\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_fleet_visibility.md",
+    "status": "saved",
+    "content_chars": 18406,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/code_testing/",
+    "title": "Category Direction - Code Testing and Coverage\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_code_testing.md",
+    "status": "saved",
+    "content_chars": 12729,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/job_artifacts/",
+    "title": "Category Direction - Job Artifacts\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_job_artifacts.md",
+    "status": "saved",
+    "content_chars": 9819,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/merge_trains/",
+    "title": "Category Direction - Merge Trains\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_merge_trains.md",
+    "status": "saved",
+    "content_chars": 10694,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/review_apps/",
+    "title": "Category Direction - Review Apps\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_review_apps.md",
+    "status": "saved",
+    "content_chars": 6011,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/environment_management/",
+    "title": "Category Direction - Environment Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery_environment_management.md",
+    "status": "saved",
+    "content_chars": 12933,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/delivery/auto_devops/",
+    "title": "Category Direction - Auto Devops\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_delivery_auto_devops.md",
+    "status": "saved",
+    "content_chars": 16730,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/mobile/mobile-devops/",
+    "title": "Product Direction - Mobile DevOps\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_mobile_mobile-devops.md",
+    "status": "saved",
+    "content_chars": 7894,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/component_catalog/",
+    "title": "Category Direction - Component Catalog\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_component_catalog.md",
+    "status": "saved",
+    "content_chars": 15818,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/create/remote_development/",
+    "title": "Group Direction - Remote Development\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_create_remote_development.md",
+    "status": "saved",
+    "content_chars": 5109,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/create/editor_extensions/",
+    "title": "Category Direction - Editor Extensions\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_create_editor_extensions.md",
+    "status": "saved",
+    "content_chars": 7878,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/static-analysis/sast/market_context.html",
+    "title": "Category Direction - Static Application Security Testing (SAST)\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_static-analysis_sast_market_context.html.md",
+    "status": "saved",
+    "content_chars": 20890,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/market-segments/",
+    "title": "Market Segments - Fuzz Testing\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_dynamic-analysis_fuzz-testing_market-segments.md",
+    "status": "saved",
+    "content_chars": 10371,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/dynamic-analysis/fuzz-testing/long-term-strategy/",
+    "title": "Long-Term Strategy - Fuzz Testing\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_application_security_testing_dynamic-analysis_fuzz-testing_long-term-strategy.md",
+    "status": "saved",
+    "content_chars": 8050,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/authorization/permissions/",
+    "title": "Category Direction - Permissions\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_authorization_permissions.md",
+    "status": "saved",
+    "content_chars": 14694,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/authorization/instance_resiliency/",
+    "title": "Category Direction - Instance Resiliency\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_authorization_instance_resiliency.md",
+    "status": "saved",
+    "content_chars": 4779,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/compliance/",
+    "title": "Group Direction - Compliance\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_compliance.md",
+    "status": "saved",
+    "content_chars": 15408,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/plan/value_stream_management/",
+    "title": "Category Direction - Value Stream Management\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_plan_value_stream_management.md",
+    "status": "saved",
+    "content_chars": 40407,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/verify/hosted_runners/",
+    "title": "Category Direction - Hosted runners\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_verify_hosted_runners.md",
+    "status": "saved",
+    "content_chars": 10541,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/environment_management/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_environment_management.md",
+    "status": "saved",
+    "content_chars": 582,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/application_security_testing/secret-detection/Secret%20Detection%20Rule%20Development/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_application_security_testing_secret-detection_Secret_20Detection_20Rule_20Development.md",
+    "status": "saved",
+    "content_chars": 655,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/software_supply_chain_security/pipeline_security/artifact_security/",
+    "title": "Category Direction - Artifact Security\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_software_supply_chain_security_pipeline_security_artifact_security.md",
+    "status": "saved",
+    "content_chars": 13817,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_model_validation/ai_research/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_model_validation_ai_research.md",
+    "status": "saved",
+    "content_chars": 606,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_model_validation/ai_evaluation/",
+    "title": "404 | GitLab | about.gitlab.com",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_model_validation_ai_evaluation.md",
+    "status": "saved",
+    "content_chars": 608,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_evaluation/metrics/",
+    "title": "AI Evaluation Metrics\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_evaluation_metrics.md",
+    "status": "saved",
+    "content_chars": 6473,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_evaluation/foundation_models/",
+    "title": "AI Evaluation Foundational Models\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_evaluation_foundation_models.md",
+    "status": "saved",
+    "content_chars": 4647,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/ai-powered/ai_framework/ai_evaluation/procedures/",
+    "title": "AI Evaluation Procedures\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_ai-powered_ai_framework_ai_evaluation_procedures.md",
+    "status": "saved",
+    "content_chars": 6573,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/core_platform/dotcom/",
+    "title": "Category Direction - GitLab.com\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_core_platform_dotcom.md",
+    "status": "saved",
+    "content_chars": 19865,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/git/",
+    "title": "Category Direction - Git Contributions\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_git.md",
+    "status": "saved",
+    "content_chars": 18564,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/gitaly/",
+    "title": "Category Direction - Gitaly\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_gitaly.md",
+    "status": "saved",
+    "content_chars": 15856,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/analytics/platform-insights/custom-dashboards-foundation/",
+    "title": "Custom Dashboards Foundation Category Direction\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_analytics_platform-insights_custom-dashboards-foundation.md",
+    "status": "saved",
+    "content_chars": 9397,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/platforms/",
+    "title": "Product Section Direction - Platforms\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_platforms.md",
+    "status": "saved",
+    "content_chars": 16083,
+    "depth": 3
+  },
+  {
+    "scope": "direction_pages",
+    "url": "https://about.gitlab.com/direction/platforms/switchboard/glossary/",
+    "title": "Glossary of Switchboard terms\n|\nGitLab",
+    "filename": "about.gitlab.com_direction_platforms_switchboard_glossary.md",
+    "status": "saved",
+    "content_chars": 16818,
+    "depth": 3
+  }
+]
