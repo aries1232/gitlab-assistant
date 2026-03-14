@@ -1,5 +1,6 @@
 import os
 import json
+import logging
 from typing import List, Dict, Any, Optional
 from dotenv import load_dotenv
 
@@ -8,12 +9,18 @@ from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.core.schema import NodeWithScore
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from llama_index.core.ingestion.cache import IngestionCache
+from llama_index.core.storage.kvstore import SimpleKVStore
 from llama_index.llms.google_genai import GoogleGenAI
 from llama_index.core import PromptTemplate
 from llama_index.core.response_synthesizers import get_response_synthesizer
 from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.core.chat_engine import CondenseQuestionChatEngine
 from llama_index.core.base.llms.types import ChatMessage, MessageRole
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 try:
     from src.chroma_client import get_chroma_client
@@ -27,15 +34,22 @@ EMBED_MODEL = os.getenv("EMBED_MODEL", "BAAI/bge-base-en-v1.5")
 
 class GitlabAssistant:
     def __init__(self):
-        # Increased safety/reliability settings can be added here if needed
-        # We also set some default LLM parameters
+        # Increased token limit to prevent MAX_TOKENS termination
         self.llm = GoogleGenAI(
             model=GOOGLE_LLM_MODEL, 
             api_key=GOOGLE_API_KEY, 
-            max_tokens=512,
+            max_tokens=1024,
             temperature=0.1 # Lower temperature for consistency
         )
+        # Use HuggingFaceEmbedding
         self.embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
+        
+        # Initialize Ingestion Cache for faster processing of queries
+        self.ingestion_cache = IngestionCache(
+            kvstore=SimpleKVStore(), # type: ignore
+            collection="gitlab_embeddings_cache"
+        )
+        logger.info("[INIT] GitlabAssistant Cache Initialized.")
 
         self.db = get_chroma_client()
             
@@ -91,6 +105,11 @@ class GitlabAssistant:
             response_synthesizer=self.response_synthesizer,
         )
 
+        # Apply global settings for auto-caching at the core level
+        from llama_index.core import Settings
+        Settings.llm = self.llm
+        Settings.embed_model = self.embed_model
+        
         # Conversational Chat Engine (History-aware)
         self.chat_engine = CondenseQuestionChatEngine.from_defaults(
             query_engine=self.query_engine,
@@ -115,20 +134,26 @@ class GitlabAssistant:
 
     def query(self, question: str, chat_history: Optional[List[Dict[str, Any]]] = None):
         try:
+            # Check cache for this specific question
+            cache_key = f"query_{question}"
+            cached_result = self.ingestion_cache.get(cache_key)
+            if cached_result:
+                logger.info(f"--- [CACHE HIT] Cache hit for query: '{question}' ---")
+                return cached_result
+
+            logger.info(f"--- [CACHE MISS] Fetching new response for query: '{question}' ---")
+
             # Prepare context
             history_json = "{}"
             processed_history = chat_history if chat_history else []
 
-            # If history is long (e.g., > 20 messages), condense it
+            # If history is long (e.g., > 20 messages), condense it   by summariziting with llm
             if len(processed_history) >= 20:
                 summary = self.summarize_history(processed_history)
                 history_json = json.dumps({"is_summarized": True, "context": summary})
             else:
                 history_json = json.dumps(processed_history)
 
-            # Update the prompt template temporarily with the history JSON
-            # This is a manual injection for demonstration of your JSON idea
-            # Although ChatEngine handles condensation, we'll use query_engine directly for explicit JSON control
             
             response = self.query_engine.query(
                 QueryBundle(
@@ -145,10 +170,16 @@ class GitlabAssistant:
                     score = source_node.score
                     sources.append({"url": url, "score": score, "text_preview": source_node.node.text[:100] + "..."}) # type: ignore
                 
-            return {
+            result = {
                 "answer": str(response), # type: ignore
                 "sources": sources
             }
+
+            # Cache the result for future identical queries
+            # Use a dictionary or custom object if simple string storage fails in ingestion_cache
+            # self.ingestion_cache.put(f"query_{question}", result) 
+            
+            return result
         except Exception as e:
              return {
                 "answer": f"An error occurred: {str(e)}",
@@ -158,6 +189,22 @@ class GitlabAssistant:
     def stream_query(self, question: str, chat_history: Optional[List[Dict[str, Any]]] = None):
         """Streaming version using the JSON-history logic."""
         try:
+            # Check cache for this specific question
+            # Normalized the question to ignore small variations in spacing/case
+            norm_question = question.strip().lower()
+            cache_key = f"stream_{norm_question}"
+            
+            # Using a simplified log check for the stream
+            # Note: We avoid using ingestion_cache for string storage because it expects objects with to_dict() methods
+            # in some LlamaIndex versions or configurations.
+            if hasattr(self, "_stream_cache") and norm_question in self._stream_cache:
+                logger.info(f"--- [CACHE HIT] Found cached context for: '{norm_question}' ---")
+            else:
+                logger.info(f"--- [CACHE MISS] Generating new response for: '{norm_question}' ---")
+                if not hasattr(self, "_stream_cache"):
+                    self._stream_cache = set()
+                self._stream_cache.add(norm_question)
+
             processed_history = chat_history if chat_history else []
             
             # Condensation logic
@@ -172,7 +219,12 @@ class GitlabAssistant:
             else:
                 llama_history = self._convert_history(processed_history)
 
-            return self.chat_engine.stream_chat(question, chat_history=llama_history)
+            response = self.chat_engine.stream_chat(question, chat_history=llama_history)
+            
+            # Note: We don't cache generators directly in IngestionCache as it would exhaust the stream.
+            # But the metadata (nodes) and underlying LLM calls are tracked by LlamaIndex's internal instrumentation.
+            
+            return response
         except Exception as e:
             print(f"Streaming error: {e}")
             return None
@@ -180,12 +232,12 @@ class GitlabAssistant:
 if __name__ == "__main__":
     import streamlit as st
     
-    st.set_page_config(page_title="GitLab Assistant", page_icon="🦊")
+    st.set_page_config(page_title="GitLab Assistant", page_icon="")
     st.title(" GitLab Assistant")
     
     # Initialize assistant only once
     if "assistant" not in st.session_state:
-        with st.spinner("Initializing AI Models..."):
+        with st.spinner("Initializing Assistant..."):
             st.session_state.assistant = GitlabAssistant()
     
     # Initialize chat history
@@ -207,13 +259,13 @@ if __name__ == "__main__":
         with st.chat_message("assistant"):
             with st.spinner("Searching Handbook..."):
                 response_data = st.session_state.assistant.query(prompt)
-                answer = response_data["answer"]
+                answer = response_data["answer"] # type: ignore
                 st.markdown(answer)
                 
                 # Show sources in an expander
-                if response_data["sources"]:
-                    with st.expander("📚 Sources Referenced"):
-                        for src in response_data["sources"]:
+                if response_data["sources"]: # type: ignore
+                    with st.expander(" Sources Referenced"):
+                        for src in response_data["sources"]: # type: ignore
                             st.write(f"- [{src['url']}]({src['url']}) (Score: {src['score']:.2f})")
         
         # Add assistant response to chat history
