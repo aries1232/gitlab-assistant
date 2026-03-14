@@ -110,6 +110,10 @@ flowchart TB
    GOOGLE_API_KEY=your_key_here
    GOOGLE_LLM_MODEL=gemini-2.0-flash
    GOOGLE_EMBED_MODEL=gemini-embedding-001
+
+   # Supabase Configuration (Optional for Chat History)
+   SUPABASE_URL=your_supabase_url
+   SUPABASE_KEY=your_supabase_anon_key
    ```
 
    To use Chroma Cloud instead of the local persistent database, also set:
