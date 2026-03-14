@@ -27,7 +27,14 @@ EMBED_MODEL = os.getenv("EMBED_MODEL", "BAAI/bge-base-en-v1.5")
 
 class GitlabAssistant:
     def __init__(self):
-        self.llm = GoogleGenAI(model=GOOGLE_LLM_MODEL, api_key=GOOGLE_API_KEY, max_tokens=400)
+        # Increased safety/reliability settings can be added here if needed
+        # We also set some default LLM parameters
+        self.llm = GoogleGenAI(
+            model=GOOGLE_LLM_MODEL, 
+            api_key=GOOGLE_API_KEY, 
+            max_tokens=512,
+            temperature=0.1 # Lower temperature for consistency
+        )
         self.embed_model = HuggingFaceEmbedding(model_name=EMBED_MODEL)
 
         self.db = get_chroma_client()

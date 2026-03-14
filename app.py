@@ -177,9 +177,16 @@ if st.session_state.messages and st.session_state.messages[-1]["role"] == "user"
         
         if stream_response:
             # Stream the token stream to front-end
-            for token in stream_response.response_gen:
-                full_response += token
-                response_container.markdown(full_response + "▌")
+            try:
+                for token in stream_response.response_gen:
+                    full_response += token
+                    response_container.markdown(full_response + "▌")
+            except Exception as e:
+                # Handle cases where Gemini terminates the stream early (e.g., safety, finish_reason etc.)
+                if "Response was terminated early" in str(e):
+                    full_response += "\n\n*(Note: The response was partially generated and terminated early by the model, likely due to safety filters or context limits.)*"
+                else:
+                    full_response += f"\n\n*(Error during streaming: {str(e)})*"
             
             response_container.markdown(full_response)
             
