@@ -105,7 +105,7 @@ def get_wait_time():
 
 # Quick Start Questions
 if not st.session_state.messages:
-    st.markdown("#### Ask me anthing about GitLab's handbook!")
+    st.markdown("#### Ask me anything about GitLab's handbook!")
     suggestions = [
         "What is GitLab's Build in Public philosophy?",
         "How does the engineering team handle architectural design?",
