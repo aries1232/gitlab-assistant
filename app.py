@@ -1,7 +1,13 @@
-import streamlit as st
 import os
 import time
 from datetime import datetime, timedelta
+
+# Keep protobuf-compatible imports for older generated OTLP proto modules and
+# avoid inotify exhaustion in constrained container environments.
+os.environ.setdefault("PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION", "python")
+os.environ.setdefault("STREAMLIT_SERVER_FILE_WATCHER_TYPE", "none")
+
+import streamlit as st
 from src.bot import GitlabAssistant
 from src.supabase_client import supabase_db
 
